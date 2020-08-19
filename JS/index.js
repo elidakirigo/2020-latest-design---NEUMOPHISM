@@ -16,7 +16,14 @@ const DOCNames = [{
 },{
     title: 'dashboard section',
     titleLink: 'neumo-dashboard/'
-}];
+},{
+    title: 'calculator',
+    titleLink: 'neumo-calculator/'
+},{
+    title: 'icon - bar',
+    titleLink: 'neumo-icons/'
+}]
+
 
 $(document).ready(function () {
     $('input').focus()
